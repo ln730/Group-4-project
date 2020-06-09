@@ -1,0 +1,83 @@
+.general {
+ background-color: #D6EAF8;;
+ font-family: 'Chilanka', cursive;
+}
+
+.navbar
+{
+    border-bottom:1px solid #000;
+    border-top: 1px solid #000; 
+}
+
+.header{
+display: flex;
+flex-wrap: wrap;
+margin-top: 10px;
+justify-content: center;
+align-content: center;
+align-items: center;
+}
+
+.centering {
+text-align: center;
+}
+
+#bugs {
+max-block-size: 6rem;
+margin-bottom: 10px;
+}
+
+#tweety {
+    max-block-size: 6rem;
+    margin-bottom: 10px;
+}
+
+/* Elements */
+
+h1 {
+color:hotpink;
+text-align: center;
+}
+
+
+p {
+padding: 20px
+}
+
+h2 {
+color:hotpink
+}
+
+footer {
+padding-top: 30px
+}
+
+#worldmap img {
+    height: calc(100vh - 170px);
+    object-fit: contain;
+}
+
+.aboutourproject {
+ width: 80%;
+ margin: 0 auto;
+ text-align: justify;
+}
+
+form {
+    padding: 30px;
+    border: solid black;
+}
+
+.divider {
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width: 400px;
+max-height: 200px;
+margin-bottom: 40px;
+}
+
+#button {
+background-color: hotpink;
+border-color: hotpink;
+}
