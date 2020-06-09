@@ -1,0 +1,63 @@
+.general {
+    background-color: #D6EAF8;;
+    font-family: 'Chilanka', cursive;
+}
+
+h2 {
+color: hotpink;
+}
+
+h5 {
+display: table;
+margin: 0 auto;
+float: center;
+}
+
+a {
+color: hotpink;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+footer {
+padding-top: 20px;
+}
+
+#germanyflag {
+padding: 15px;
+max-width: 10%;
+}
+
+.title {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.general {
+    background-color: #D6EAF8;
+    font-family: 'Chilanka', cursive;
+}
+
+#carouselExampleCaptions img {
+    height: calc(100vh - 168px);
+    object-fit: contain;
+}
+
+
+
+.card-img-top {
+    width: 286px; 
+    height: 346px;
+    object-fit: fill;
+}
+
+.card {
+    margin: auto;
+}
